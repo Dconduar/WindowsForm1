@@ -1,0 +1,10 @@
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\obj\Debug\CalculadoraCombustible.csproj.AssemblyReference.cache
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\obj\Debug\CalculadoraCombustible.Properties.Resources.resources
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\obj\Debug\CalculadoraCombustible.csproj.GenerateResource.cache
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\obj\Debug\CalculadoraCombustible.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\bin\Debug\CalculadoraCombustible.exe.config
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\bin\Debug\CalculadoraCombustible.exe
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\bin\Debug\CalculadoraCombustible.pdb
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\obj\Debug\CalculadoraCombustible.Form1.resources
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\obj\Debug\CalculadoraCombustible.exe
+C:\Users\dieg0\source\repos\CalculadoraCombustible\CalculadoraCombustible\obj\Debug\CalculadoraCombustible.pdb

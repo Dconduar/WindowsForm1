@@ -1,0 +1,10 @@
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\bin\Debug\CalculadoradeViajes.exe.config
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\bin\Debug\CalculadoradeViajes.exe
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\bin\Debug\CalculadoradeViajes.pdb
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\obj\Debug\CalculadoradeViajes.csproj.AssemblyReference.cache
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\obj\Debug\CalculadoradeViajes.Form1.resources
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\obj\Debug\CalculadoradeViajes.Properties.Resources.resources
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\obj\Debug\CalculadoradeViajes.csproj.GenerateResource.cache
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\obj\Debug\CalculadoradeViajes.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\obj\Debug\CalculadoradeViajes.exe
+C:\Users\dieg0\source\repos\CalculadoradeViajes\CalculadoradeViajes\obj\Debug\CalculadoradeViajes.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93052676-CB79-48F1-8835-FDCA5BCE3610}|CalculadoradeViajes\\CalculadoradeViajes.csproj|c:\\users\\dieg0\\source\\repos\\calculadoradeviajes\\calculadoradeviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93052676-CB79-48F1-8835-FDCA5BCE3610}|CalculadoradeViajes\\CalculadoradeViajes.csproj|solutionrelative:calculadoradeviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93052676-CB79-48F1-8835-FDCA5BCE3610}|CalculadoradeViajes\\CalculadoradeViajes.csproj|C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\calculadoradeviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93052676-CB79-48F1-8835-FDCA5BCE3610}|CalculadoradeViajes\\CalculadoradeViajes.csproj|solutionrelative:calculadoradeviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93052676-CB79-48F1-8835-FDCA5BCE3610}|CalculadoradeViajes\\CalculadoradeViajes.csproj|C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\calculadoradeviajes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93052676-CB79-48F1-8835-FDCA5BCE3610}|CalculadoradeViajes\\CalculadoradeViajes.csproj|solutionrelative:calculadoradeviajes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\CalculadoradeViajes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CalculadoradeViajes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\CalculadoradeViajes\\Form1.Designer.cs",
+              "RelativeToolTip": "CalculadoradeViajes\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:00:42.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\CalculadoradeViajes\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoradeViajes\\Form1.cs",
+              "ToolTip": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\CalculadoradeViajes\\Form1.cs",
+              "RelativeToolTip": "CalculadoradeViajes\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:55:22.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\CalculadoradeViajes\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoradeViajes\\Form1.cs",
+              "ToolTip": "C:\\Users\\dieg0\\source\\repos\\CalculadoradeViajes\\CalculadoradeViajes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoradeViajes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T04:52:24.72Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
